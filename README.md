@@ -4,7 +4,7 @@
 This project explores GDP and productivity metrics across Indian cities from 2019 to 2023, offering a powerful combination of data visualization and interactive analysis. It aims to provide policymakers, data enthusiasts, and researchers with actionable insights into regional economic trends.
 
 
-### 📈 Power BI Dashboard 
+### 📈 Power BI Dashboard  
 - **GDP Trends**: Analyze year-wise GDP growth patterns across Indian cities.
 - **Sector-wise Employment**: Insights into employment distribution across sectors.
 - **Youth Unemployment**: Focus on unemployment rates among the youth demographic.
